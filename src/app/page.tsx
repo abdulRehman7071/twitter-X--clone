@@ -81,7 +81,7 @@ export default function Home() {
     <div>
       <div className=" grid grid-cols-12 h-screen w-screen px-24">
         <div className="col-span-3 flex flex-col justify-start pt-4 pl-8 relative">
-          <div className=" text-3xl hover:bg-[#181818] cursor-pointer rounded-full transition-all ease-in-out p-2 object-fit h-fit w-fit">
+          <div className=" text-3xl hover:bg-[#181818] cursor-pointer rounded-full transition-all delay-75 ease-in-out p-2 object-fit h-fit w-fit">
             <FaXTwitter />
           </div>
           <div className=" mt-2">
